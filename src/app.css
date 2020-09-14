@@ -1,0 +1,240 @@
+.head{
+    /* background-color:rgb(85, 14, 14); */
+    background-color:#344d48;
+    opacity:0.9;
+    border-radius: 10px;
+    text-align: center;
+    font-family:sans-serif;
+    font-weight: 900;
+    color:white;
+    border-radius: 1rem;    
+}
+    
+.head5{
+    color:rgb(138, 15, 15);
+    font-style:oblique;
+    text-align: right;
+    font-size: small;
+    
+}
+
+.major{
+    background-color:#344d48 ;
+    color:whitesmoke;
+    font-family:sans-serif;
+    font-weight: 900;
+    font-size: small;
+    padding: 40px;
+    border-radius: 1rem;
+}
+
+.button{
+    background-color:#344d48 !important ;
+    color: white !important;
+    font-family:sans-serif;
+    font-weight: 900;
+    font-size: small;
+  
+}
+.head2{
+    color:white;
+    font-size: 30px;
+    border-radius: 1rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:900rem;
+}
+
+#secondPage{
+    background-color:#344d48;
+}
+
+#path{
+    background-color: whitesmoke !important;
+   text-align: center;
+   font-size: 30px;
+    border-radius: 1rem;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:500rem;
+}
+
+#firstparagraph{
+    color:white;   
+    font-style: italic;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+    border-width: 1rem;
+    border-color: black;
+   
+}
+
+.head2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 1rem;
+}
+
+/* #magna{
+    background-color:white;
+    color: rgb(179, 49, 49); 
+} */
+
+#thirdparagraph{
+    background-color: white ;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+#thirdPage{
+    background-color:#344d48 ;
+}
+
+#header3{
+    background-color: white;
+    border-radius:2rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#spring{
+    background-color:#344d48;
+    border-radius: 1rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+#lorem{
+    background-color: #344d48;
+    border-radius: 1rem;
+    text-align: center;
+    color: white;
+}
+#mz{
+    background-color:#344d48;
+    text-align: center;
+    border-radius: 1rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#fifthparagraph{
+    background-color: #344d48;
+    text-align: center;
+    border-radius: 4rem;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+
+  }
+  /* .li{
+      color:white !important;
+      background-color: green;
+  } */
+  /* #list{
+      color:red
+  } */
+  .nav-link{
+      color:white;
+  }
+  .nav-item {
+     list-style: none;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 900;
+      font-style: normal;
+  }
+  .navbar{
+      background-color:#344d48 !important ;
+      opacity: 0.9;
+      margin-bottom:2px;
+     
+}
+#lastHeader{
+    background-color: #344d48;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius:1rem;
+
+
+}
+#lastParagraph{
+    background-color:#344d48;
+    border-radius:1rem;
+    color: white;
+    text-align: center;
+}
+.text-blue{
+    color: green;
+} 
+row{
+    background-color: #344d48 !important;
+}
+#nameClass{
+    background-color: #344d48 !important;
+    border-radius:3px;
+    
+}
+#wears{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    font-weight: 900;
+   
+}
+.card-footer{
+    background-color: #344d48 !important;
+}
+.card-title{
+    color: white;
+}
+#modal{
+    background-color:green !important;
+    opacity: 0.9;
+}
+#cartitem{
+    color: white;
+}
+.modalButton{
+    background-color:white;
+    border-radius: 1rem;
+}
+#han{
+    color: white !important;
+}
+/* .bot{
+    background-color: #344d48 !important;
+}
+  */
+.header4{
+    background-color: #344d48;
+    color: aliceblue;
+    padding: 2rem;
+    border-radius: 5px;
+    margin-left: 0rem;
+}
+h1{
+    color:white;
+}
+/* .row{
+   margin-left:7rem
+} */
+#cad{
+    margin-left:15rem;;
+}
